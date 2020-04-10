@@ -1,6 +1,5 @@
 # convergeID Overview
 convergeID is a python script (python 3) for lineage convergent event prediction. It uses time-series single-cell RNA-seq data which contains two time points. It is now a developmental version.
->>>>>>> origin/master
 
 # Installation
 > 1. Download python scripts from github
