@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # ConvergentID Overview
 ConvergentID is a python script (python 3) for lineage convergent event prediction. It uses time-series single-cell RNA-seq data which contains two time points. It is now a developmental version.
 
@@ -37,9 +35,3 @@ conv_pair = convergentID.rank_by_conv_strength(conv_pair_candidate, all_conv_pai
 ```
 
 
-
-
-=======
-# ConvergentID
-ConvergentID is a python script for lineage convergent event prediction
->>>>>>> origin/master
